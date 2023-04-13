@@ -8,4 +8,7 @@
   <p align="center">
   ^^Add me on discord^^
 <p align="center">
+<img src="https://discordapp.com/api/guilds/1065719489536204820/widget.png?style=banner4" alt="Discord Banner 4"/>
+  <p align="center">
+Join my server :)
 
