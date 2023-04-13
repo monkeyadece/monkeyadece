@@ -8,7 +8,9 @@
   <p align="center">
   ^^Add me on discord^^
 <p align="center">
-<img src="https://discordapp.com/api/guilds/1065719489536204820/widget.png?style=banner4" alt="Discord Banner 4"/>
+<a href="https://discord.gg/steel">
+  <img src="https://discordapp.com/api/guilds/1065719489536204820/widget.png?style=banner4" alt="Discord Banner 4"/>
+</a>
   <p align="center">
 Join my server :)
 
