@@ -17,3 +17,9 @@
 </a>
   <p align="center">
 Join my server :)
+
+<!--- Snake Graph --->
+<p align="center">
+<img src="https://github.com/amrit6969/amrit6969/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+
+ [<img align="right" height="340px" width= "510px" alt="GIF" src="https://i.imgur.com/Wo5AJnU.gif" />](https://www.reddit.com/u/AmritOnTop/)
